@@ -16,5 +16,8 @@ A logistic regression model is developed and cross validated using multiple meth
 COMPAS_Debias_AIF360:
 The model is debiased using the AIF360 library and revalidated
 
+cox-violent-parsed.csv:
+COMPAS dataset retrieved from: https://www.kaggle.com/danofer/compass?select=cox-violent-parsed.csv
+
 
 
